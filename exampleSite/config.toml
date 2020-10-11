@@ -1,4 +1,4 @@
-baseURL = "kashim.me"
+baseURL = "https://kashim.netlify.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
